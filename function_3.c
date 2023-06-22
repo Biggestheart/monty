@@ -76,4 +76,4 @@ void _rotr(stack_t **stack, unsigned int line_number)
 	}
 
 	runner->n = aux1;
-:}
+}
